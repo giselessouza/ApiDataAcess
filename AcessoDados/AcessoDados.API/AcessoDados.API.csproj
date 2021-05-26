@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>8c7ef104-cda2-4d30-b019-21e72456b250</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AcessoDados.BLL\AcessoDados.BLL.csproj" />
+    <ProjectReference Include="..\AcessoDados.DL\AcessoDados.DL.csproj" />
+  </ItemGroup>
+
+
+</Project>

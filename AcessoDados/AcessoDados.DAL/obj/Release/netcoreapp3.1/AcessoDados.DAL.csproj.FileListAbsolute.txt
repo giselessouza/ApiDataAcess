@@ -1,0 +1,12 @@
+C:\source\GSZ\AcessoDados\AcessoDados.DAL\bin\Release\netcoreapp3.1\AcessoDados.DAL.deps.json
+C:\source\GSZ\AcessoDados\AcessoDados.DAL\bin\Release\netcoreapp3.1\AcessoDados.DAL.runtimeconfig.json
+C:\source\GSZ\AcessoDados\AcessoDados.DAL\bin\Release\netcoreapp3.1\AcessoDados.DAL.runtimeconfig.dev.json
+C:\source\GSZ\AcessoDados\AcessoDados.DAL\bin\Release\netcoreapp3.1\AcessoDados.DAL.dll
+C:\source\GSZ\AcessoDados\AcessoDados.DAL\bin\Release\netcoreapp3.1\AcessoDados.DAL.pdb
+C:\source\GSZ\AcessoDados\AcessoDados.DAL\obj\Release\netcoreapp3.1\AcessoDados.DAL.csprojAssemblyReference.cache
+C:\source\GSZ\AcessoDados\AcessoDados.DAL\obj\Release\netcoreapp3.1\AcessoDados.DAL.AssemblyInfoInputs.cache
+C:\source\GSZ\AcessoDados\AcessoDados.DAL\obj\Release\netcoreapp3.1\AcessoDados.DAL.AssemblyInfo.cs
+C:\source\GSZ\AcessoDados\AcessoDados.DAL\obj\Release\netcoreapp3.1\AcessoDados.DAL.csproj.CoreCompileInputs.cache
+C:\source\GSZ\AcessoDados\AcessoDados.DAL\obj\Release\netcoreapp3.1\AcessoDados.DAL.dll
+C:\source\GSZ\AcessoDados\AcessoDados.DAL\obj\Release\netcoreapp3.1\AcessoDados.DAL.pdb
+C:\source\GSZ\AcessoDados\AcessoDados.DAL\obj\Release\netcoreapp3.1\AcessoDados.DAL.genruntimeconfig.cache

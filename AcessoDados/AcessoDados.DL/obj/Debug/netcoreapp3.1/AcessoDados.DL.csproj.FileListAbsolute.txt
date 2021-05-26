@@ -1,0 +1,9 @@
+C:\source\GSZ\AcessoDados\AcessoDados.DL\bin\Debug\netcoreapp3.1\AcessoDados.DL.deps.json
+C:\source\GSZ\AcessoDados\AcessoDados.DL\bin\Debug\netcoreapp3.1\AcessoDados.DL.dll
+C:\source\GSZ\AcessoDados\AcessoDados.DL\bin\Debug\netcoreapp3.1\AcessoDados.DL.pdb
+C:\source\GSZ\AcessoDados\AcessoDados.DL\obj\Debug\netcoreapp3.1\AcessoDados.DL.AssemblyInfoInputs.cache
+C:\source\GSZ\AcessoDados\AcessoDados.DL\obj\Debug\netcoreapp3.1\AcessoDados.DL.AssemblyInfo.cs
+C:\source\GSZ\AcessoDados\AcessoDados.DL\obj\Debug\netcoreapp3.1\AcessoDados.DL.csproj.CoreCompileInputs.cache
+C:\source\GSZ\AcessoDados\AcessoDados.DL\obj\Debug\netcoreapp3.1\AcessoDados.DL.dll
+C:\source\GSZ\AcessoDados\AcessoDados.DL\obj\Debug\netcoreapp3.1\AcessoDados.DL.pdb
+C:\source\GSZ\AcessoDados\AcessoDados.DL\obj\Debug\netcoreapp3.1\AcessoDados.DL.csprojAssemblyReference.cache
